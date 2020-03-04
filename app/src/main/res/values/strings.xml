@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnCero">0</string>
+    <string name="btnUno">1</string>
+    <string name="btnDos">2</string>
+    <string name="btnTres">3</string>
+    <string name="btnCuatro">4</string>
+    <string name="btnCinco">5</string>
+    <string name="btnSeis">6</string>
+    <string name="btnSiete">7</string>
+    <string name="btnOcho">8</string>
+    <string name="btnNueve">9</string>
+    <string name="btnPlus">+</string>
+    <string name="btnMenos">-</string>
+    <string name="btnX">X</string>
+    <string name="btnDivision">/</string>
+    <string name="btnIgual">=</string>
+    <string name="btnPunto">.</string>
+</resources>
